@@ -1,0 +1,21 @@
+remoteOrigin = 'https://github.com/ClassicalMasterpieces/Original.git'
+list2add = {
+    ".gitignore",
+    "url",
+    "src/Lrcs.zip/*",
+    "src/AncientTimes_1.zip/*",
+    "src/AncientTimes_2.zip/*",
+    "src/AncientTimes_3.zip/*",
+    "src/AncientTimes_4.zip/*",
+    "src/AncientTimes_5.zip/*",
+    "src/AncientTimes_6.zip/*",
+    "src/Awaken Land.zip/*",
+    "src/Fortune and Misfortune.zip/*",
+    "src/Magic Heritage.zip/*",
+    "src/New Island.zip/*",
+    "src/Sandstormed City.zip/*",
+    "src/Story of A Lady King.zip/*",
+    "src/Story of An Ancient King.zip/*",
+    "src/Story of the Rich.zip/*",
+    "src/Track.zip/*",
+}
